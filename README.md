@@ -23,5 +23,5 @@ As funcionalidades listadas são as básicas, e poderão ser ampliadas em revis�
 Não há obrigatoriedade em se usar ambos os PCOMs WiFi e Bluetooth. O código do Arduino pode sistematicamente habilitar/desabilitar um ou outro PCOM (ou ambos), a qualquer momento. O default é ambos habilitados, mas caso se use apenas um dos PCOMs, nenhuma ação é necessária, já que o Mecanismo de conexão é automático e utilizará a conexão que estiver disponível e ao alcance.
 
 
-Link para o contexto: 
+Link para o contexto:   http://labdegaragem.com/forum/topics/implementa-o-do-pcom-wifi-bluetooth-esp32-para-arduino
 
